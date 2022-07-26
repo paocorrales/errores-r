@@ -1,0 +1,14 @@
+sobre-esta-página
+punto-de-partida
+si-todo-falla-cómo-pedir-ayuda
+problemas-de-instalación
+instalación-de-paquetes
+problemas-de-sintaxis-general
+código-fuera-del-bloque-de-código
+mayúsculas-y-minúsculas
+problemas-leyendo-datos
+problemas-manipulando-y-transformando-datos
+problemas-visualizando-datos
+problemas-con-rmarkdown
+problemas-con-git-y-github
+dónde-están-los-cambios
