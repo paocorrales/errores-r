@@ -1,0 +1,30 @@
+--- 
+title: "Esos errores que aparecen mientras estás aprendiendo R"
+author: "Pao Corrales, Elio Campitelli, Yani Bellini Saibene"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Este es un mini compendium de los errores que vemos aparecer más frecuentemente cuando enseñamos R a personas principiantes. 
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# Sobre esta página
+
+Este es un mini compendium de los errores que vemos aparecer más frecuentemente cuando enseñamos R a personas principiantes. En la mayoría de los casos enseñamos R y algunas otras herramientas orientadas al análisis y visualización de datos. Por eso encontrarás errores asociados a la instalación de las herramientas, manipulación de datos y su visualización. 
+
+##  Punto de partida
+
+Si estás acá seguramente te encontraste con algún mensaje de error. Te sugerimos copiar alguna parte del texto que no incluya el nombre de las variables u objetos que estás usando y uses la barra de búsqueda arriba a la derecha. Con suerte encontrarás una sección que muestre las posibles causas del error y sus soluciones. 
+
+Es importante tener presente que un mensaje de error no es nada sin el código que lo generó. Necesitamos conocer el contexto para poder entender el mensaje, a veces criptico, que devuelve R.
+
+## Si todo falla, cómo pedir ayuda
+
+Si no encontrás una respuesta o el error persiste, es importante buscar ayuda por otros lados. No hay preguntas tontas. Si estás tomando una clase o cursando una materia, la mejor idea es consultar a tus docentes y colegas. Seguro alguien se encontró con el mismo error si están haciendo la misma actividad y tu docente va a entender el contexto rápidamente para poder ayudarte. 
+
+Si ese no es el caso, pedir ayuda al universo (algún foro, slack o stackoverflow) requiere de un poco más de trabajo. Necesitamos explicar el problema con el mayor detalle posible. Lo ideal es generar un [ejemplo reproducible usando reprex](https://eliocamp.github.io/codigo-r/2018/01/buen-ejemplo-reproducible-en-r/) pero si eso no es posible, tenemos que incluir el código, el error, el resultado esperado y cualquier información que consideremos relevante. Mejor que sobre a falte. 

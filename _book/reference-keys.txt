@@ -1,0 +1,15 @@
+sobre-esta-página
+punto-de-partida
+si-todo-falla-cómo-pedir-ayuda
+problemas-de-instalación
+problemas-de-sintaxis-general
+problemas-leyendo-datos
+problemas-manipulando-y-transformando-datos
+problemas-visualizando-datos
+problemas-con-rmarkdown
+problemas-con-git-y-github
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+código-fuera-del-bloque-de-código
+mayúsculas-y-minúsculas
+dónde-están-los-cambios
+instalación-de-paquetes
